@@ -23,5 +23,6 @@ I'm a Lead Educator & Team Lead at [BrainStation](https://brainstation.io/), coo
 I did my PhD at the University of Toronto and my following research was centred around understanding large, seemingly random and chaotic abstract mathematical objects (focusing on large graphs). How do local and global properties of certain structures interact and affect each other? Can a large network be sparse and highly connected at the same time? I have been focusing on such questions in graph theory, logic and combinatorics. [Click for math publications here](https://danieltsoukup.github.io/academic/pub.xhtml).
 
 Further points of contact:
+- [Personal Github](https://github.com/danieltsoukup) - small projects and experiments 🔭
 - [LinkedIn](https://www.linkedin.com/in/danieltsoukup/) - reach out here to chat 💬
 - [Website](https://danieltsoukup.github.io/) - more about my previous work 🤔
